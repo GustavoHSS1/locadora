@@ -1,0 +1,37 @@
+body {
+    background-image: url('../img/imagemLocadora.jpg'); 
+    background-size: cover;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.7); 
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 200px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.container h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+nav {
+    margin: 20px 0;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
